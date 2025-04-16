@@ -1,50 +1,50 @@
 const produtos = [
     {
         "id": 1,
-        "nome": "Blusa TuPac",
-        "descricao": "Blusa TuPac com estampa de alta qualidade",
-        "preco": 197.90,
+        "nome": "Bota AnaCastela",
+        "descricao": "Bota metalizada de alta qualidade, estilo e qualidade",
+        "preco": 499.90,
         "peso": 10.00,
-        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgGoYcUyjRFR1bEDt_Gc4vNkLIlMWlbwCB_A&s"
+        "imagem":"https://acdn-us.mitiendanube.com/stores/941/886/products/fe70d30e-2185-43fe-9669-6339ca45bbcc-47cb034fc61851d92b17174335636284-1024-1024.jpeg"
     },
     {
         "id": 2,
-        "nome": "Tenis branco nike",
-        "descricao": "Tenis branco confortavel e estiloso",
-        "preco": 234.99,
+        "nome": "Cinto Ana Castela",
+        "descricao": "Muito briho conforto e estilo",
+        "preco": 99.99,
         "peso": 10.00,
-        "imagem": "https://cdn.awsli.com.br/600x450/1755/1755854/produto/87687436/e82fb0abc7.jpg"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZBJ9LDUb59Q7F7lXqEGKn5A2i8VMWn91Tsg&s"
     },
     {
         "id": 3,
-        "nome": "Bandana TuPac",
-        "descricao": "Bandana Tupac vermelha de alta qualidade.",
-        "preco": 74.99,
+        "nome": "calça Boiadeira",
+        "descricao": "calça realça seu corpo e conforto.",
+        "preco": 250.99,
         "peso": 10.00,
-        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1BsYk1dbO989aR8S_a5_glv3iq59sTWH5A&s"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdcuxHucgdeOvEHEpUUgDsiloQFgrAp6rbw&s"
     },
     {
         "id": 4,
-        "nome": "Boné TuPac",
-        "descricao": "Boné TuPac com estampa.",
-        "preco": 256.49,
+        "nome": "Carmed Anacastela",
+        "descricao": "Brilho e hidratante labial com fragância.",
+        "preco": 49.49,
         "peso": 0.3,
-        "imagem": "https://images.tcdn.com.br/img/img_prod/1312795/bone_e_stars_2pac_aba_curva_preto_13722_1_4b21df96950a8241749fefa254e36b50.jpg"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4vNrk2PYQON9An5t9CcHjtBzVdhhvR_WVQ&s"
     },
     {
         "id": 5,
-        "nome": "Corrente TuPac",
-        "descricao": "Corrente TuPac OURO com pingente.",
-        "preco": 2398.00,
+        "nome": "Capinha da Anacastela",
+        "descricao": "Capinha da Anacastela segurança e beleza para seu aparelho.",
+        "preco": 39.00,
         "peso": 1.2,
-        "imagem": "https://i.redd.it/2pacs-makaveli-chain-aka-euphanasia-medallion-his-actual-v0-xlz77bl1y0yb1.png?width=1704&format=png&auto=webp&s=c57f6b387934bd2a5c5a2cd4f608833df5f83367"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFan2Cty_pJg1_LYWKqet3tfUwhIKZ1guPWw&s"
     },
     {
         "id": 6,
-        "nome": "Fone de ouvido caixinha personalizada TuPac",
-        "descricao": "Fone de ouvido com caixinha  preta personalizada TuPac.",
-        "preco": 144.99,
+        "nome": "Chapeu Boiadeira AnaCastela",
+        "descricao": "Chápeu Boiadeira Anacastela.",
+        "preco": 699.99,
         "peso": 0.9,
-        "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Seef69ed22042461ea33cc01040e11103H.jpg_220x220q75.jpg_.avif"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnFVUJIryMKOWXU8w3SFGjH3g1II7B1FAAGA&s"
     }
 ];
